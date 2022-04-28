@@ -6,16 +6,13 @@
   </a>
 </p>
 
-> Portfolio
 
-### 🏠 [Homepage](index.html)
-
-### ✨ [Demo](https://riazulislam.netlify.app/)
+### 🏠 [Live Site](https://riazulislam.netlify.app/)
 
 ## Usage
 
 ```sh
-Clone the repository and customize it according to your needs
+Clone the repository and customize it according to your need
 ```
 
 ## Author
@@ -28,6 +25,3 @@ Clone the repository and customize it according to your needs
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
