@@ -38,7 +38,7 @@
 3. Open `index.html` with editor
 
 
-## 👨 Author
+## 📝 Author
 
 👤 **[Md. Riazul Islam](https://riazulislam.netlify.app/)**
 
