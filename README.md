@@ -50,6 +50,6 @@
 <a href="https://instagram.com/i_m_riaz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_riaz_" height="30" width="40" /></a>
 </p>
 
-## Show your support
+## 🤝 Show your support
 
 Give a ⭐️ if this project helped you!
