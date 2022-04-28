@@ -16,7 +16,7 @@
 
 <p align="center">
   <kbd>
-<img src="https://raw.githubusercontent.com/Riaz-404/Portfolio/main/.github/images/screenshot1.png" width="90%"></img>
+<img src="https://raw.githubusercontent.com/Riaz-404/Portfolio/main/.github/images/screenshot1.png" width="100%"></img>
   </kbd>
 </p>
 
@@ -38,7 +38,7 @@
 3. Open `index.html` with editor
 
 
-## Author
+## 👨 Author
 
 👤 **[Md. Riazul Islam](https://riazulislam.netlify.app/)**
 
