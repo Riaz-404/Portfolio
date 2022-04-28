@@ -1,7 +1,7 @@
 <h1 align="center">Md. Riazul Islam's Portfolio 👋</h1>
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-2.0-blue.svg?cacheSeconds=2592000" />
-  <a href="#" target="_blank">
+  <a href="https://github.com/Riaz-404/Portfolio/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
   <a href="https://app.netlify.com/sites/riazulislam/deploys" target="_blank">
